@@ -2180,8 +2180,8 @@
 		(uuid "050aa541-e105-441f-a080-837e66a2c86b")
 	)
 	(no_connect
-		(at 232.41 114.3)
-		(uuid "9df7bb78-f3af-41a0-89b8-4381a34fb78e")
+		(at 232.41 101.6)
+		(uuid "367af35f-8889-4d7d-9b97-cbfb5a4faccc")
 	)
 	(no_connect
 		(at 232.41 109.22)
@@ -2192,8 +2192,8 @@
 		(uuid "c2c07ed1-24ef-468d-ae70-476a06e1ae32")
 	)
 	(no_connect
-		(at 232.41 111.76)
-		(uuid "d304f263-9837-4e01-898b-b0a32a998e7f")
+		(at 232.41 60.96)
+		(uuid "fcf2cb45-b0c7-477c-abf1-8d77242db6bf")
 	)
 	(wire
 		(pts
@@ -2337,6 +2337,16 @@
 	)
 	(wire
 		(pts
+			(xy 214.63 114.3) (xy 232.41 114.3)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "17a9546f-b48e-41f0-8b94-077ef3f59847")
+	)
+	(wire
+		(pts
 			(xy 128.27 96.52) (xy 128.27 97.79)
 		)
 		(stroke
@@ -2414,16 +2424,6 @@
 			(type default)
 		)
 		(uuid "290f59a7-c527-4b71-abb7-9e8b4d7120b1")
-	)
-	(wire
-		(pts
-			(xy 215.9 101.6) (xy 232.41 101.6)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "299a6488-8303-4589-b319-86707fce8781")
 	)
 	(wire
 		(pts
@@ -2777,16 +2777,6 @@
 	)
 	(wire
 		(pts
-			(xy 138.43 139.7) (xy 149.86 139.7)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "72e4f84a-6eca-4867-8019-9cd3e730d859")
-	)
-	(wire
-		(pts
 			(xy 167.64 44.45) (xy 167.64 52.07)
 		)
 		(stroke
@@ -3047,6 +3037,26 @@
 	)
 	(wire
 		(pts
+			(xy 148.59 139.7) (xy 149.86 139.7)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "9ca703e7-e745-4be4-8363-571e2be0e306")
+	)
+	(wire
+		(pts
+			(xy 138.43 134.62) (xy 149.86 134.62)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "9cd156f2-caa9-457f-8362-98940d89334f")
+	)
+	(wire
+		(pts
 			(xy 113.03 45.72) (xy 113.03 53.34)
 		)
 		(stroke
@@ -3104,16 +3114,6 @@
 			(type default)
 		)
 		(uuid "a5752086-0d22-4b32-ad1a-868ee7c9718a")
-	)
-	(wire
-		(pts
-			(xy 215.9 60.96) (xy 232.41 60.96)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "a5889109-3c5c-401b-a3a4-d94f961d9977")
 	)
 	(wire
 		(pts
@@ -3177,16 +3177,6 @@
 	)
 	(wire
 		(pts
-			(xy 148.59 134.62) (xy 149.86 134.62)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "ac9c689e-4f41-489d-b166-07afd10813f7")
-	)
-	(wire
-		(pts
 			(xy 109.22 168.91) (xy 123.19 168.91)
 		)
 		(stroke
@@ -3234,6 +3224,16 @@
 			(type default)
 		)
 		(uuid "b4b4bd48-2eb2-4e98-b4e9-7ba44f84f444")
+	)
+	(wire
+		(pts
+			(xy 138.43 139.7) (xy 140.97 139.7)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "b560d47b-87a9-402d-92fa-335c58047661")
 	)
 	(wire
 		(pts
@@ -3414,6 +3414,16 @@
 			(type default)
 		)
 		(uuid "d24c0e71-2f03-4649-b365-0ed23158c150")
+	)
+	(wire
+		(pts
+			(xy 214.63 111.76) (xy 232.41 111.76)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "d3494553-80dc-42de-be42-6cd978cb1e79")
 	)
 	(wire
 		(pts
@@ -3647,16 +3657,6 @@
 	)
 	(wire
 		(pts
-			(xy 138.43 134.62) (xy 140.97 134.62)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "f8909b23-974c-42cf-869a-f7ae2b67cc5e")
-	)
-	(wire
-		(pts
 			(xy 245.11 91.44) (xy 245.11 88.9)
 		)
 		(stroke
@@ -3725,6 +3725,16 @@
 		)
 		(uuid "153994af-56d1-4a96-b9c7-2321e59f49f5")
 	)
+	(label "ESC3_ISNS"
+		(at 215.9 50.8 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "1933e720-a6f3-4f16-b1c5-c1b3296a2434")
+	)
 	(label "VBUS_VSNS"
 		(at 215.9 63.5 0)
 		(effects
@@ -3754,6 +3764,16 @@
 			(justify right bottom)
 		)
 		(uuid "234a86ab-0534-44bc-8f05-92c43f8a5045")
+	)
+	(label "5V0_VSNS"
+		(at 215.9 66.04 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "27f12029-a671-44dd-b760-e181d635e5bd")
 	)
 	(label "3V3_VSNS"
 		(at 123.19 168.91 180)
@@ -3795,25 +3815,15 @@
 		)
 		(uuid "7076fc3c-64b3-4cd0-a797-819d62f22347")
 	)
-	(label "ESC2_ISNS"
-		(at 215.9 53.34 0)
+	(label "5V0_SRVO1_ISNS"
+		(at 214.63 114.3 0)
 		(effects
 			(font
 				(size 1.27 1.27)
 			)
 			(justify left bottom)
 		)
-		(uuid "7fe0f391-bd77-4ff3-828e-3559c148bae4")
-	)
-	(label "5V0_SRVO1_VSNS"
-		(at 215.9 66.04 0)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify left bottom)
-		)
-		(uuid "82bbd5fe-6a61-456e-8e52-ae50bb165d4e")
+		(uuid "83a28567-8c47-4d3d-be25-4add49381b4e")
 	)
 	(label "3V3_VSNS"
 		(at 215.9 96.52 0)
@@ -3825,15 +3835,15 @@
 		)
 		(uuid "872c79c9-e1e3-4546-9565-d5f7ec1a646f")
 	)
-	(label "5V0_VSNS"
-		(at 215.9 45.72 0)
+	(label "5V0_SRVO2_ISNS"
+		(at 214.63 111.76 0)
 		(effects
 			(font
 				(size 1.27 1.27)
 			)
 			(justify left bottom)
 		)
-		(uuid "87ce3ddb-50df-4543-9e0e-7e96b4a243bc")
+		(uuid "927361ad-5295-4caa-894b-c744c4b299cd")
 	)
 	(label "VBUS_MAIN_ISNS"
 		(at 78.74 40.64 180)
@@ -3844,6 +3854,16 @@
 			(justify right bottom)
 		)
 		(uuid "9ac889ab-48fd-46a8-a594-04742c4635ae")
+	)
+	(label "ESC2_ISNS"
+		(at 215.9 55.88 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "a445da6f-1c19-4b79-9d4f-b1a698bfa507")
 	)
 	(label "5V0_SRVO1_VSNS"
 		(at 100.33 168.91 180)
@@ -3865,15 +3885,15 @@
 		)
 		(uuid "be64bab0-f6ac-4df9-a4e8-e957d3182dcc")
 	)
-	(label "ESC3_ISNS"
-		(at 215.9 55.88 0)
+	(label "5V0_ISNS"
+		(at 215.9 53.34 0)
 		(effects
 			(font
 				(size 1.27 1.27)
 			)
 			(justify left bottom)
 		)
-		(uuid "c495bbe6-dae5-43b1-bff9-229506701833")
+		(uuid "c089e296-e96c-4c0e-a858-773b2e008d6e")
 	)
 	(label "5V0_SRVO1_ISNS"
 		(at 77.47 69.85 180)
@@ -3885,7 +3905,7 @@
 		)
 		(uuid "c8069b72-a5fc-4e97-84af-8c8dd77e3793")
 	)
-	(label "ESC4_ISNS"
+	(label "ESC1_ISNS"
 		(at 215.9 58.42 0)
 		(effects
 			(font
@@ -3893,7 +3913,7 @@
 			)
 			(justify left bottom)
 		)
-		(uuid "c8775144-7d5a-4c99-ad1e-e7e1bf369b1a")
+		(uuid "cc98b5a8-d03f-4357-84bb-693d2d459035")
 	)
 	(label "ESC3_ISNS"
 		(at 149.86 105.41 180)
@@ -3905,16 +3925,6 @@
 		)
 		(uuid "d06b3920-d6d0-4acd-9510-cf80da045b38")
 	)
-	(label "5V0_ISNS"
-		(at 215.9 40.64 0)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify left bottom)
-		)
-		(uuid "d2781075-9c29-4276-ad18-a6d9ab782f7b")
-	)
 	(label "VBUS_VSNS"
 		(at 71.12 168.91 180)
 		(effects
@@ -3925,25 +3935,15 @@
 		)
 		(uuid "d504cd2d-b591-4458-bafc-cdb5eb76a2e7")
 	)
-	(label "5V0_SRVO1_ISNS"
-		(at 215.9 60.96 0)
+	(label "5V0_SRVO1_VSNS"
+		(at 215.9 40.64 0)
 		(effects
 			(font
 				(size 1.27 1.27)
 			)
 			(justify left bottom)
 		)
-		(uuid "dabd4299-9e93-40d6-9eec-e11fc64fff25")
-	)
-	(label "5V0_SRVO2_ISNS"
-		(at 215.9 101.6 0)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify left bottom)
-		)
-		(uuid "db16e2d7-3087-4de4-890b-ada981e9f82b")
+		(uuid "d5669cb3-65bb-4897-8db8-7dd70ebe6671")
 	)
 	(label "5V0_ISNS"
 		(at 76.2 129.54 180)
@@ -3954,6 +3954,16 @@
 			(justify right bottom)
 		)
 		(uuid "dd1e7b69-3745-4dce-ae80-8b270dac5a07")
+	)
+	(label "ESC4_ISNS"
+		(at 215.9 45.72 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "dfe5e8c7-3629-492c-a435-6204f48bd4e0")
 	)
 	(label "ESC4_ISNS"
 		(at 203.2 105.41 180)
@@ -3974,16 +3984,6 @@
 			(justify left bottom)
 		)
 		(uuid "f264d0a4-e02f-4eb4-b713-7b4bb84bc863")
-	)
-	(label "ESC1_ISNS"
-		(at 215.9 50.8 0)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify left bottom)
-		)
-		(uuid "fd59520c-f307-4309-a4c8-5c83db28edf4")
 	)
 	(hierarchical_label "5V0_ISNS+"
 		(shape input)
@@ -4275,7 +4275,7 @@
 	)
 	(symbol
 		(lib_id "Device:R_US")
-		(at 144.78 134.62 270)
+		(at 144.78 139.7 270)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -4283,7 +4283,7 @@
 		(dnp no)
 		(uuid "021c950a-6050-4e40-85f8-17da02c144e5")
 		(property "Reference" "R72"
-			(at 144.526 132.08 90)
+			(at 144.526 137.16 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4291,7 +4291,7 @@
 			)
 		)
 		(property "Value" "100"
-			(at 145.034 136.906 90)
+			(at 145.034 141.986 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4299,7 +4299,7 @@
 			)
 		)
 		(property "Footprint" "Resistor_SMD:R_0603_1608Metric"
-			(at 144.526 135.636 90)
+			(at 144.526 140.716 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4308,7 +4308,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 144.78 134.62 0)
+			(at 144.78 139.7 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4317,7 +4317,7 @@
 			)
 		)
 		(property "Description" "Resistor, US symbol"
-			(at 144.78 134.62 0)
+			(at 144.78 139.7 0)
 			(effects
 				(font
 					(size 1.27 1.27)

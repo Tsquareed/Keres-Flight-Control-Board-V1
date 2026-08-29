@@ -5645,26 +5645,6 @@
 		)
 		(uuid "157763ed-e82f-4a94-a392-740711e07eef")
 	)
-	(label "ESC3_EN"
-		(at 100.33 140.97 0)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify left bottom)
-		)
-		(uuid "1f5b6cf3-d73e-49cf-a882-7e255e525de5")
-	)
-	(label "ESC4_EN"
-		(at 184.15 144.78 180)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify right bottom)
-		)
-		(uuid "2bb1ffd1-eb5e-4b0f-a9d4-5053219726c0")
-	)
 	(label "SDA_1"
 		(at 72.39 50.8 180)
 		(effects
@@ -5695,16 +5675,6 @@
 		)
 		(uuid "4266dd9b-e161-408a-ad05-d792142d0338")
 	)
-	(label "ESC2_EN"
-		(at 100.33 138.43 0)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify left bottom)
-		)
-		(uuid "44e7790c-9171-4f80-80c1-4f9fe3662f6b")
-	)
 	(label "SCL_1"
 		(at 187.96 125.73 180)
 		(effects
@@ -5714,6 +5684,26 @@
 			(justify right bottom)
 		)
 		(uuid "4efcaa0c-5381-4238-b080-f79e1ebb5502")
+	)
+	(label "ESC2_EN"
+		(at 100.33 105.41 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "552d7ff0-360c-4d58-86a8-e7744cef03d7")
+	)
+	(label "ESC4_EN"
+		(at 100.33 140.97 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "55ec2b15-233c-463b-97be-011819b41a47")
 	)
 	(label "PWM_ESC3"
 		(at 100.33 113.03 0)
@@ -5734,16 +5724,6 @@
 			(justify left bottom)
 		)
 		(uuid "5919afa5-573a-4fd1-91a2-65f9d3fa95d5")
-	)
-	(label "ESC1_EN"
-		(at 100.33 105.41 0)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify left bottom)
-		)
-		(uuid "5b70e2ec-0b84-4c27-9951-04f35e2342f0")
 	)
 	(label "PWM_SRVO3"
 		(at 232.41 116.84 0)
@@ -5935,6 +5915,16 @@
 		)
 		(uuid "bc02332f-1648-4a95-9b04-d6525095b2b5")
 	)
+	(label "ESC3_EN"
+		(at 100.33 138.43 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "c0c119cf-903b-403d-b20a-e3b2c39f89f8")
+	)
 	(label "ESC2_EN"
 		(at 232.41 82.55 0)
 		(effects
@@ -5944,6 +5934,16 @@
 			(justify left bottom)
 		)
 		(uuid "c4ac5f0b-72ae-498b-837d-d92633778cf5")
+	)
+	(label "ESC1_EN"
+		(at 184.15 144.78 180)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right bottom)
+		)
+		(uuid "c73eb441-e795-458a-9c17-b5734de6a833")
 	)
 	(label "SDA_2"
 		(at 187.96 133.35 180)
