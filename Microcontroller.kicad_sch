@@ -6318,6 +6318,24 @@
 				(hide yes)
 			)
 		)
+		(property "MPN" "CRCW060310K0FKEA"
+			(at 201.93 120.65 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer" "Vishay Dale"
+			(at 201.93 120.65 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "97fda6dd-df15-4aee-83b1-2f7851505ea3")
 		)
@@ -6443,6 +6461,24 @@
 		)
 		(property "Description" "Resistor, US symbol"
 			(at 114.3 124.46 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MPN" "CRCW06030000Z0EA"
+			(at 114.3 124.46 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer" "Vishay Dale"
+			(at 114.3 124.46 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6717,6 +6753,24 @@
 				(hide yes)
 			)
 		)
+		(property "MPN" " C0603C104K5RACAUTO"
+			(at 41.91 105.41 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer" "Kemet"
+			(at 41.91 105.41 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "db0533e0-9a31-4e56-b2fd-cde3f5f39c92")
 		)
@@ -6845,6 +6899,24 @@
 			)
 		)
 		(property "Description" "Resistor, US symbol"
+			(at 31.75 140.97 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MPN" "CRCW06030000Z0EA"
+			(at 31.75 140.97 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer" "Vishay Dale"
 			(at 31.75 140.97 0)
 			(effects
 				(font
@@ -7051,6 +7123,24 @@
 				(hide yes)
 			)
 		)
+		(property "MPN" "CRCW060310K0FKEA"
+			(at 208.28 120.65 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer" "Vishay Dale"
+			(at 208.28 120.65 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "c1fb1239-e78a-471c-903c-543f5aa37051")
 		)
@@ -7185,6 +7275,24 @@
 				(hide yes)
 			)
 		)
+		(property "MPN" "CRCW06030000Z0EA"
+			(at 25.4 135.89 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer" "Vishay Dale"
+			(at 25.4 135.89 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "2f5ac63b-51e9-42a0-aa29-81a49d0a7ccf")
 		)
@@ -7207,7 +7315,7 @@
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
-		(dnp no)
+		(dnp yes)
 		(uuid "34b4c011-13c0-403b-ae4c-c12f4bcec0af")
 		(property "Reference" "U7"
 			(at 133.096 102.108 0)
@@ -7244,6 +7352,24 @@
 			)
 		)
 		(property "Description" ""
+			(at 119.38 124.46 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MPN" "4.0 Microcontroller"
+			(at 119.38 124.46 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer" "Teensy"
 			(at 119.38 124.46 0)
 			(effects
 				(font
@@ -7392,6 +7518,24 @@
 		)
 		(property "Description" "Resistor, US symbol"
 			(at 163.83 128.27 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MPN" "CRCW06030000Z0EA"
+			(at 163.83 128.27 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer" "Vishay Dale"
+			(at 163.83 128.27 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8167,6 +8311,24 @@
 				(hide yes)
 			)
 		)
+		(property "MPN" "LQG18HN27NJ00"
+			(at 158.75 40.64 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer" "Murata Electronics"
+			(at 158.75 40.64 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "1e70c59d-4a5f-4820-8729-428615bfc2f1")
 		)
@@ -8228,6 +8390,24 @@
 			)
 		)
 		(property "Description" "InvenSense 6-Axis Motion Sensor, Gyroscope, Accelerometer, I2C"
+			(at 52.07 127 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MPN" "MPU-6050"
+			(at 52.07 127 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer" "TDK InvenSense"
 			(at 52.07 127 0)
 			(effects
 				(font
@@ -8435,6 +8615,24 @@
 				(hide yes)
 			)
 		)
+		(property "MPN" "CRCW06030000Z0EA"
+			(at 114.3 129.54 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer" "Vishay Dale"
+			(at 114.3 129.54 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "b9003bed-daac-43db-8cd0-ddd477b14dc9")
 		)
@@ -8497,6 +8695,24 @@
 		)
 		(property "Description" "Unpolarized capacitor"
 			(at 62.23 35.56 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MPN" " C0603C104K5RACAUTO"
+			(at 62.23 35.56 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer" "Kemet"
+			(at 62.23 35.56 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8573,6 +8789,24 @@
 				(hide yes)
 			)
 		)
+		(property "MPN" " C0603C104K5RACAUTO"
+			(at 137.16 33.02 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer" "Kemet"
+			(at 137.16 33.02 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "ed968ddd-08f2-4de4-bb3f-03990cf36bf3")
 		)
@@ -8634,6 +8868,24 @@
 			)
 		)
 		(property "Description" "Unpolarized capacitor"
+			(at 81.28 138.43 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MPN" "C0603C222K5RACAUTO"
+			(at 81.28 138.43 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer" "Kemet"
 			(at 81.28 138.43 0)
 			(effects
 				(font
@@ -8796,6 +9048,24 @@
 				(hide yes)
 			)
 		)
+		(property "MPN" "LTST-C190KSKT"
+			(at 156.21 72.39 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer" "Lite-On Inc."
+			(at 156.21 72.39 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "9e733bf2-87d0-4591-b5e0-07a29a392471")
 		)
@@ -8856,6 +9126,24 @@
 		)
 		(property "Description" "Resistor, US symbol"
 			(at 146.05 40.64 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MPN" "CRCW060310R0FKEA"
+			(at 146.05 40.64 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer" "Vishay Dale"
+			(at 146.05 40.64 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8987,6 +9275,24 @@
 			)
 		)
 		(property "Description" "Resistor, US symbol"
+			(at 66.04 60.96 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MPN" "CRCW060310K0FKEA"
+			(at 66.04 60.96 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer" "Vishay Dale"
 			(at 66.04 60.96 0)
 			(effects
 				(font
@@ -9131,6 +9437,24 @@
 				(hide yes)
 			)
 		)
+		(property "MPN" " C0603C104K5RACAUTO"
+			(at 119.38 36.83 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer" "Kemet"
+			(at 119.38 36.83 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "0c97c653-1200-4a17-8bb0-10f516849d73")
 		)
@@ -9192,6 +9516,24 @@
 			)
 		)
 		(property "Description" "Resistor, US symbol"
+			(at 163.83 50.8 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MPN" "CRCW06030000Z0EA"
+			(at 163.83 50.8 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer" "Vishay Dale"
 			(at 163.83 50.8 0)
 			(effects
 				(font
@@ -9651,6 +9993,24 @@
 				(hide yes)
 			)
 		)
+		(property "MPN" "CRCW060310K0FKEA"
+			(at 151.13 67.31 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer" "Vishay Dale"
+			(at 151.13 67.31 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "a8245560-31f9-48e9-bfa2-ceea439fb750")
 		)
@@ -9778,6 +10138,24 @@
 		)
 		(property "Description" "Resistor, US symbol"
 			(at 163.83 125.73 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MPN" "CRCW06030000Z0EA"
+			(at 163.83 125.73 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer" "Vishay Dale"
+			(at 163.83 125.73 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -9919,6 +10297,24 @@
 				(hide yes)
 			)
 		)
+		(property "MPN" "CRCW06030000Z0EA"
+			(at 163.83 130.81 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer" "Vishay Dale"
+			(at 163.83 130.81 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "4b4d6e9f-d600-4071-a0bd-fd9aa4f0bca5")
 		)
@@ -9981,6 +10377,24 @@
 			)
 		)
 		(property "Description" "coaxial connector (BNC, SMA, SMB, SMC, Cinch/RCA, LEMO, ...)"
+			(at 179.07 40.64 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MPN" "U.FL-R-SMT-1(10)"
+			(at 179.07 40.64 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer" "Hirose Electric Co Ltd"
 			(at 179.07 40.64 0)
 			(effects
 				(font
@@ -10189,6 +10603,24 @@
 				(hide yes)
 			)
 		)
+		(property "MPN" "CRCW060310K0FKEA"
+			(at 195.58 120.65 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer" "Vishay Dale"
+			(at 195.58 120.65 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "8fce378b-3d5d-4615-b332-338f32ba6507")
 		)
@@ -10251,6 +10683,24 @@
 		)
 		(property "Description" "Resistor, US symbol"
 			(at 163.83 133.35 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MPN" "CRCW06030000Z0EA"
+			(at 163.83 133.35 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer" "Vishay Dale"
+			(at 163.83 133.35 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10461,6 +10911,24 @@
 				(hide yes)
 			)
 		)
+		(property "MPN" " C0603C104K5RACAUTO"
+			(at 73.66 138.43 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer" "Kemet"
+			(at 73.66 138.43 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "d1b8fa5b-123c-41a0-b333-6c2fd748c390")
 		)
@@ -10530,6 +10998,24 @@
 				(hide yes)
 			)
 		)
+		(property "MPN" "C0603C103K5RACAUTO"
+			(at 151.13 46.99 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer" "Kemet"
+			(at 151.13 46.99 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "a4bdf63d-56bc-4d0d-a624-ac0a61a97b44")
 		)
@@ -10590,6 +11076,24 @@
 		)
 		(property "Description" "Resistor, US symbol"
 			(at 151.13 140.97 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MPN" "CRCW06030000Z0EA"
+			(at 151.13 140.97 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer" "Vishay Dale"
+			(at 151.13 140.97 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10862,6 +11366,24 @@
 				(hide yes)
 			)
 		)
+		(property "MPN" " C0603C104K5RACAUTO"
+			(at 44.45 38.1 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer" "Kemet"
+			(at 44.45 38.1 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "e68cc6a8-3438-41ee-9333-18ea1c68b1dc")
 		)
@@ -10994,6 +11516,24 @@
 				(hide yes)
 			)
 		)
+		(property "MPN" "CRCW060310K0FKEA"
+			(at 189.23 120.65 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer" "Vishay Dale"
+			(at 189.23 120.65 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "d21c36d8-8b76-4dd8-92ba-9736ef0c01f5")
 		)
@@ -11055,6 +11595,24 @@
 			)
 		)
 		(property "Description" "GNSS Module MAX M10, VCC 1.65V to 3.6V"
+			(at 130.81 59.69 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MPN" "MAX-M10S"
+			(at 130.81 59.69 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer" "u-blox"
 			(at 130.81 59.69 0)
 			(effects
 				(font
@@ -11178,6 +11736,24 @@
 				(hide yes)
 			)
 		)
+		(property "MPN" "CRCW060310K0FKEA"
+			(at 30.48 45.72 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer" "Vishay Dale"
+			(at 30.48 45.72 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "34b388f0-6482-4671-aeee-cbc7dcc47997")
 		)
@@ -11240,6 +11816,24 @@
 		)
 		(property "Description" "Unpolarized capacitor"
 			(at 60.96 102.87 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MPN" " C0603C104K5RACAUTO"
+			(at 60.96 102.87 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer" "Kemet"
+			(at 60.96 102.87 90)
 			(effects
 				(font
 					(size 1.27 1.27)
